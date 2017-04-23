@@ -18,6 +18,8 @@ Tutorial blogs
 
  - [Yii2 official](http://www.yiiframework.com/doc-2.0/guide-index.html)
  - [Tutorials Point](https://www.tutorialspoint.com/yii/)
+ - [Krajee](http://webtips.krajee.com/)
+
 
 Video Tutorials
 ---------------
@@ -28,3 +30,6 @@ Video Tutorials
     
  - [David Connelly](https://www.youtube.com/watch?v=H7uON7rcv4g&list=PLBEpR3pmwCayfpaE9Vk-0xDsE5HQRJxuq)
  - [Năng Đoàn](https://www.youtube.com/watch?v=k24RHhld2SU&list=PL9mTllXIbMsj9u_tgKyKW3PQ5ffSJ73jF)
+
+
+Created using [Stack](https://stackedit.io/editor)
