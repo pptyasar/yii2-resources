@@ -17,4 +17,14 @@ Tutorial blogs
 -------------------
 
  - [Yii2 official](http://www.yiiframework.com/doc-2.0/guide-index.html)
- 
+ - [Tutorials Point](https://www.tutorialspoint.com/yii/)
+
+Video Tutorials
+---------------
+
+ - DoingITEasy
+         [Yii2 Lessons](https://www.youtube.com/watch?v=z1xtFbO9jgQ&list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF)
+        [Yii2  Advanced](https://www.youtube.com/watch?v=-Akx3nzLF8s&list=PLRd0zhQj3CBli-egGbTLn94ugm3P_ip19)
+    
+ - [David Connelly](https://www.youtube.com/watch?v=H7uON7rcv4g&list=PLBEpR3pmwCayfpaE9Vk-0xDsE5HQRJxuq)
+ - [Năng Đoàn](https://www.youtube.com/watch?v=k24RHhld2SU&list=PL9mTllXIbMsj9u_tgKyKW3PQ5ffSJ73jF)
