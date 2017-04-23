@@ -32,4 +32,4 @@ Video Tutorials
  - [Năng Đoàn](https://www.youtube.com/watch?v=k24RHhld2SU&list=PL9mTllXIbMsj9u_tgKyKW3PQ5ffSJ73jF)
 
 
-## Created using [Stack](https://stackedit.io/editor)
+Thanks [Stack](https://stackedit.io/editor)
